@@ -1,4 +1,6 @@
- function checkUsersValid(goodUsers) {
+'use strict'
+
+function checkUsersValid(goodUsers) {
       return function allUsersValid(submittedUsers) {
         return submittedUsers
           .every(x => goodUsers

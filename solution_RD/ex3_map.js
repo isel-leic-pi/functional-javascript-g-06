@@ -1,3 +1,5 @@
+'use strict'
+
 /*function doubleAll(numbers) {
     var result = []
     for (var i = 0; i < numbers.length; i++) {
