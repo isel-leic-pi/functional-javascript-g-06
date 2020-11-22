@@ -1,0 +1,12 @@
+[
+    {
+        "name": "G13",
+        "description": "Grupo 13 de PI",
+        "games": ["FIFA 21", "Bloodroots", "FUSER", "Prodeus"]
+    },
+    {
+        "name": "G15",
+        "description": "Grupo 15 de PI",
+        "games": ["The Falconeer", "FreeCell+", "Poker Club"]
+    }
+]

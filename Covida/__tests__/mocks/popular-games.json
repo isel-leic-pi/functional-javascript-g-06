@@ -1,0 +1,44 @@
+
+[
+    {
+        "name": "Grand Theft Auto V",
+        "release_date": "09/17/2013",
+        "genres": ["Shooter", "Racing", "Sport", "Adventure"],
+        "platforms": ["PC (Microsoft Windows)", "PlayStation 3", "Xbox 360", "PlayStation 4", "Xbox One"],
+        "rating": 93.42341438605955,
+        "description": "The biggest, most dynamic and most diverse open world ever created, Grand Theft Auto V blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story."  
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "release_date": "05/19/2015",
+        "genres": ["Role-playing (RPG)", "Adventure"], 
+        "platforms": ["PC (Microsoft Windows)", "PlayStation 4", "Xbox One"],
+        "rating": 93.7143286592613,
+        "description": "RPG and sequel to The Witcher 2 (2011), The Witcher 3 follows witcher Geralt of Rivia as he seeks out his former lover and his young subject while intermingling with the political workings of the wartorn Northern Kingdoms. Geralt has to fight monsters and deal with people of all sorts in order to solve complex problems and settle contentious disputes, each ranging from the personal to the world-changing."
+        
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim",
+        "release_date": "11/11/2011",
+        "genres": ["Role-playing (RPG)", "Adventure"],
+        "platforms": ["PC (Microsoft Windows)", "PlayStation 3", "Xbox 360"],
+        "rating": 91.913045206983,
+        "summary": "The next chapter in the highly anticipated Elder Scrolls saga arrives from the makers of the 2006 and 2008 Games of the Year, Bethesda Game Studios. Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose.  \n \nPlay any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before.  \n \nSkyrim’s new game engine brings to life a complete virtual world with rolling clouds, rugged mountains, bustling cities, lush fields, and ancient dungeons.  \n \nChoose from hundreds of weapons, spells, and abilities. The new character system allows you to play any way you want and define yourself through your actions.  \n \nBattle ancient dragons like you’ve never seen. As Dragonborn, learn their secrets and harness their power for yourself."
+    },
+    {
+        "name": "Grand Theft Auto: San Andreas",
+        "release_date": "10/26/2004",
+        "genres": ["Shooter", "Racing", "Adventure"],
+        "platforms": ["PC (Microsoft Windows)", "PlayStation 2", "PlayStation 3", "Xbox", "Xbox 360", "Mac", "Android", "Xbox Live Arcade", "iOS", "PlayStation 4"],
+        "rating": 91.74609620738764,
+        "summary": "Returning after his mother's murder to the semi-fictional city of Los Santos (based on Los Angeles), Carl Johnson, a former gang banger, must take back the streets for his family and friends by gaining respect and once again gaining control over the streets. However, a story filled with crime, lies and corruption will lead him to trudge the entire state of San Andreas (based on California and Nevada) to rebuild his life."
+    },
+    {
+        "name": "Portal 2",
+        "release_date": "04/19/2011",
+        "genres": ["Shooter", "Platform", "Puzzle", "Adventure"],
+        "platforms": ["Linux", "PC (Microsoft Windows)", "PlayStation 3", "Xbox 360", "Mac"],
+        "rating": 91.8879893574484,
+        "summary": "Sequel to the acclaimed Portal (2007), Portal 2 pits the protagonist of the original game, Chell, and her new robot friend, Wheatley, against more puzzles conceived by GLaDOS, an A.I. with the sole purpose of testing the Portal Gun's mechanics and taking revenge on Chell for the events of Portal. As a result of several interactions and revelations, Chell once again pushes to escape Aperture Science Labs."
+    }
+]
